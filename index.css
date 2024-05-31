@@ -19,6 +19,8 @@ body {
 }
 
 .nav-items {
+    color: #fff;
+    text-decoration: none;
     text-align: center;
     padding: 10px;
     border: 1px solid #fff;
@@ -27,7 +29,18 @@ body {
     
 }
 
-.about-items {
-    padding-left: 20px;
+.nav-items:hover {
+    transition: all 0.4s linear;
+    color: aqua;
 }
 
+
+
+.about-items {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.anchor {
+    color: aqua;
+}
