@@ -1,0 +1,33 @@
+body {
+    background-color: #282c34;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+}
+
+.body-items {
+    border: 1px solid #fff;
+    border-radius: 0px;
+    margin-bottom: 3px;
+
+}
+
+.nav {
+    padding: 20px;
+    text-align: right;
+    
+}
+
+.nav-items {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #fff;
+    border-radius: 7px;
+    margin-left: 15px;
+    
+}
+
+.about-items {
+    padding-left: 20px;
+}
+
